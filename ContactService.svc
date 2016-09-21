@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="KomplitWebApp.ContactService" CodeBehind="ContactService.svc.cs" %>
